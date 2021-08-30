@@ -1,6 +1,6 @@
 
 # Omnimango July-60 Chorus Manual
-This module is a recreation of the Juno-60 chorus module. The graphics are meant to emulate the look of the June-60 pedal from Behringer. Exact numbers pulled from the Juno were calculated by Andy Harman and can be viewed at the following repo https://github.com/pendragon-andyh/Juno60. I have included the relevant section of the analysis here.
+This module is a recreation of the Juno-60 chorus module. The graphics are meant to emulate the look of the June-60 pedal from TC Electronic. Exact numbers pulled from the Juno were calculated by Andy Harman and can be viewed at the following repo https://github.com/pendragon-andyh/Juno60. I have included the relevant section of the analysis here.
 
 ![june-60](res/june-60.png)
 
