@@ -6,7 +6,7 @@ Hello to everyone who is taking the time to read this manual! These are a collec
 [Syrup Manual](HyperSyrup.md)
 
 ## Hyper July
-[July Chorus](July-60.md)
+[July Chorus Manual](July-60.md)
 
 ## Hyper Tune
-[Hyper Tune](HyperTune.md)
+[Hyper Tune Manual](HyperTune.md)

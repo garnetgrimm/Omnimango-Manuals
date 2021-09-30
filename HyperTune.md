@@ -27,5 +27,8 @@ The first configuration I like to use changes the pitch as smoothly as possible.
 The second one, like the first changes the pitch but more "robotically" using S&H like the classic autotune sound.
 ![Robotic Pitch Correction](res/hyper-tune_pitch_robotic.png)  
 
-This last setup is almost like a vocoder, in that you can actually play the notes that you'd like to retune to. While my plugin is monophonic, the CPU usage is low enough that the module can be duplicated several times for multiple voices. 
+This next setup is almost like a vocoder, in that you can actually play the notes that you'd like to retune to. While my plugin is monophonic, the CPU usage is low enough that the module can be duplicated several times for multiple voices. 
 ![Vocode Like](res/hyper-tune_pitch_vocode.png)  
+
+Finally, you can simply offset the pitch by a predetermined amount as shown below
+![Pitch Shift](res/hyper-tune_pitch_shift.png)  
