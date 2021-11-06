@@ -8,3 +8,4 @@ Inspired by Mick Gordons pentagram placement in the Doom soundtrack, subliminall
 * **minFreq** - lowest frequency to be produced
 * **maxFreq** - highest frequency to be produced
 * **readSpeed** - playback speed;
+* **Outputs** - The outputs on the bottom equate to RGB channels
